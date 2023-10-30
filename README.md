@@ -23,7 +23,9 @@ ORTSOC is a three quarter capstone program. As you might have imagined, since th
 5. Threat Hunting
 6. Penetration Testing
 
-During this time, you provide SOC services for the clients of the ORTSOC, which the ORTSOC website calls "under-served organizations across the region".
+During this time, you provide SOC services for the clients of the ORTSOC, which the ORTSOC website calls "under-served organizations across the region". You would be expected to work 10-12 hours per week. You will be asked to submit your schedule at the beginning of the term, but you don't get to sign up for shifts. This means that if you can't make it to a 7:00am shift for whatever reason, you should not leave this marked available. There is also a one hour capstone class, with required attendance.
+
+For graduate students, there is a reading group that meets after the capstone class, with what I assume is an associated seminar. 
 
 ## Environment
 
