@@ -42,3 +42,6 @@ The short answer is probably not. For the ORTSOC to be a teaching hospital, it w
 Now, if this were the case, why would anyone want to purchase the services of the ORTSOC? Consider the fact that it looks better on a Cybersecurity Insurance policy when the organization has a SOC. Now consider the amount of money saved. Until, of course, there is a major incident, and the insurance company and the client is left wondering what the hell happened. This is just a hypothetical, and I am not referring to any real incident here.
 
 Because of this, I have heard from others who have finished the ORTSOC program that when they go out and do real security operations, they are in for a serious wakeup call. A certain amount of class consciousness is necessary as well to understand. *You* are the one paying *your tuiton dollars*, and the practicum is 4-5 credit hours per term. You may even be taking out mountains of student debt. To those considering this program (as well as current students), this is critical to remember.
+
+## If you have feedback on this opinion piece
+PRs and issues welcome :)
