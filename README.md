@@ -1,2 +1,8 @@
 # ortsoc-opinion-piece
-OSU's Cybersecurity Teaching Hospital
+
+This opinion piece is inspired by Jeff's review of the MECOP internship program, which can be found [here](https://github.com/solderq35/mecop-opinion-piece). My goal here is to be a bit more neutral in my review, but I think it is silly to claim that I am unbiased. Because the ORTSOC involves a confidentiality agreement, I will be more sparse on details, and any technical information given here is information that could already be found on the ORTSOC website. This isn't a leak.
+
+There are a few reasons why I am writing here. The first is that SLE reviews are never seen by other students, and Ratemyprofessor reviews can be written by anyone. Although this review is my own personal experience, I have discussed with other people, and while I won't be sharing who, I will incorporate what they have to say in this opinion piece.
+
+## Overview
+The ORTSOC claims to be the nation's first cybersecurity teaching hospital. We will evalulate this claim further on. With the current tight job market, students are looking to bypass the previous experience paradox, where companies are unwilling to spend the money to train new graduates on the job. Catering to this concern, the ORTSOC offers students a lucrative deal. This is to say, students can take the course and get nine months of free work experience. ORTSOC students do **not** get paid, however the total combined salaries for the full-time mentors is around $400-500k, plus a few GTA/GRA positions for graduate students. From my understanding, most of the money goes to the administrative overhead of running the ORTSOC. This is using the publically avaliable salary information.
