@@ -27,6 +27,10 @@ During this time, you provide SOC services for the clients of the ORTSOC, which 
 
 For graduate students, there is a reading group that meets after the capstone class, with what I assume is an associated seminar. 
 
+## Making it count for credit
+
+To be able to take the course, you have to enroll in a special [security operations track](https://drive.google.com/file/d/10nyKXrlQfB4jdqP7oP24PeGc_RYz6EH3/view?usp=sharing). If this doesn't line up well with your current coursework, then this is very important to consider before deciding to do ORTSOC. The advisors may give you certain advice. Some of it is probably accurate, but as always make sure to verify information they give you.
+
 ## Environment
 
 The ORTSOC is an in-person SOC. This means that anyone interested in taking the course, to my knowledge, would not be able to work remotely. This is in contrast to other SOC jobs which do allow this form of work. Additionally, if someone has to miss class, the only option is to make up the missing hours, with no option for remote work if sick. The reason for this is likely the same reason many companies are forcing their workers back to the office. It is far easier to stand over someone's shoulder and monitor what they are doing when they are working in-person. 
