@@ -6,6 +6,8 @@ There are a few reasons why I am writing here. SLE reviews are never seen by oth
 
 Thanks to [Yeongjin](https://www.unexploitable.systems/) for helping me with a lot of this and giving me a perspective from someone highly experienced in the industry, and to the many others who were willing to give me their honest opinions.
 
+**This is not intended to be a rant, rather just things I wish I had known before doing the capstone, and hopefully it will inform other students before they do it.** I'm not suggesting I have solutions to have all of the problems listed here either. Running a SOC with 25 students certainly is a challenge.
+
 ## Overview
 The ORTSOC claims to be the nation's first cybersecurity teaching hospital. We will evalulate this claim further on. With the current tight job market, students are looking to bypass the previous experience paradox, where companies are unwilling to spend the money to train new graduates on the job. Catering to this concern, the ORTSOC offers students a lucrative deal. This is to say, students can take the course and get nine months of free work experience. ORTSOC students do **not** get paid, however the total combined salaries for the full-time mentors is around $400-500k, plus a few GTA/GRA positions for graduate students. From my understanding, most of the money goes to the administrative overhead of running the ORTSOC. This is using the publicly avaliable salary information. For students, it is work experience to put on their resume. For the ORTSOC, it is dirt cheap labor.
 
