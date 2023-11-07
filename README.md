@@ -15,7 +15,7 @@ There was, according to someone I talked to, a dispute over if students should b
 
 This is mostly aimed towards students who are deciding if they should do this capstone or not. I can't tell you if you should take it or not: this you will have to decide for yourself. The goal here is to give information that will be helpful to someone making the decision. Overall though, I would say the quality of the program is on par with the OSU CS program as a whole. It is not exceptionally good, nor exceptionally bad, when compared to the rest of the EECS department.
 
-I have also heard there are plans to offer a doctorate level degree. Given that the ORTSOC's director doesn't himself have a doctoral degree (his academic experience is as an English major), I am not sure how he plans to make this work. 
+I have also heard there are plans to offer a doctorate level degree. Given that the ORTSOC's director doesn't himself have a doctoral degree (his academic experience is as an English major), I am not sure how he plans to make this work. I'm not trying to be an academic elitist here. This is just what I've heard  from other faculty. 
 
 ## Rotations
 
