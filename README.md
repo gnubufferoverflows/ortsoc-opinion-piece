@@ -17,6 +17,11 @@ This is mostly aimed towards students who are deciding if they should do this ca
 
 I have also heard there are plans to offer a doctorate level degree. Given that the ORTSOC's director doesn't himself have a doctoral degree (his academic experience is as an English major), I am not sure how he plans to make this work. I'm not trying to be an academic elitist here. This is just what I've heard  from other faculty. 
 
+## Positive Things
+* Put experience on your resume
+* Real penetration test of a client, potentially
+* Guest speakers, though they are usually not announced in advance so you cannot figure out ahead of time what you would want to ask.
+
 ## Rotations
 
 ORTSOC is a three quarter capstone program. As you might have imagined, since the program is themed after a teaching hospital, there are clinical rotations. You get assigned to a rotation, and you do that particular rotation for a few weeks. From the ORTSOC website, some of these rotations are:
