@@ -21,7 +21,7 @@ I have also heard there are plans to offer a doctorate level degree. Given that 
 * Put experience on your resume
 * Real penetration test of a client, potentially
 * Guest speakers, though they are usually not announced in advance so you cannot figure out ahead of time what you would want to ask.
-* Many of the things that happen that students dislike are often how things are in the corporate world. So, if you are looking to drink some of that corporate Kool-Aid before you even get out of college, ORTSOC is perhaps the place for you. https://www.youtube.com/watch?v=BKorP55Aqvg
+* Many of the things that happen that students dislike are often how things are in the corporate world. So, if you are looking to drink some of that corporate Kool-Aid before you even get out of college, ORTSOC is perhaps the place for you. https://www.youtube.com/watch?v=BKorP55Aqvg. https://www.youtube.com/watch?v=BTdOHBIppx8
 
 ## Rotations
 
