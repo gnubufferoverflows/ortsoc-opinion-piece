@@ -37,6 +37,10 @@ During this time, you provide SOC services for the clients of the ORTSOC, which 
 
 For graduate students, there is a reading group that meets after the capstone class, with what I assume is an associated seminar. 
 
+## Rotation Evaluations
+
+At the end of each rotation, you get an evaluation and a grade. They're not really that helpful if you are looking for feedback. I have heard from other students taking the course that they have had to appeal their rotation grade, because they believe the mentor made things up or said something that was blatantly false. Even assuming everything stated is true, very little of it is actionable or advice that can actually be applied in the future. The course grading is just as arbitrary and capricious as the house points.
+
 ## Making it count for credit
 
 To be able to take the course, you have to enroll in a special [security operations track](https://drive.google.com/file/d/10nyKXrlQfB4jdqP7oP24PeGc_RYz6EH3/view?usp=sharing). If this doesn't line up well with your current coursework, then this is very important to consider before deciding to do ORTSOC. The advisors may give you certain advice. Some of it is probably accurate, but as always make sure to verify information they give you.
